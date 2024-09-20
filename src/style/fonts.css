@@ -1,0 +1,9 @@
+@font-face {
+    font-family: MainFont;
+    src: url('./fonts/MYRIADPRO-REGULAR.otf');
+}
+
+@font-face {
+    font-family: MainFontLight;
+    src: url('./fonts/MyriadPro-Light.otf');
+}
